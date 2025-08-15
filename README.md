@@ -1,4 +1,4 @@
-# 🛠 Qualit control and Defect Detection Using Image
+# 🛠 Quality control and Defect Detection Using Image
 
 This project detects and classifies screws as **Defective** or **Non-Defective** using a machine learning model trained in **Google Cloud Vertex AI AutoML Vision**.  
 It supports **real-time detection** via a camera feed (DroidCam) and automated predictions through **Vertex AI** endpoints triggered by **Google Cloud Functions**.
